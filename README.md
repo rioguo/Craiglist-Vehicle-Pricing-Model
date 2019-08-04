@@ -1,4 +1,4 @@
-This project was completeede by Rio Guo and Chen Li in partial fulfilment of ECON-GB 2313, Data Bootcamp, Summer 2019. I certify that the NYU Stern Honor Code applies to this project. In particular, I have:
+This project was completeede by Rio Guo in partial fulfilment of ECON-GB 2313, Data Bootcamp, Summer 2019. I certify that the NYU Stern Honor Code applies to this project. In particular, I have:
 
 Clearlly acknowledged the work and efforts of others when submitting written work as our own. The incorporation of the work of others-including but not limited to their ideas, data, creative, expression, and direct quotations (which should be designated with quotation marks), or para-phrasing thereof -- has been fully appropriately referenced using notations both in the text and the bibliography. 
 
